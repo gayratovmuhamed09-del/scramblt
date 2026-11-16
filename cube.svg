@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" role="img" aria-label="Живой кубик Рубика с глазами">
+  <ellipse cx="200" cy="318" rx="120" ry="16" fill="#000" opacity=".28"/>
+  <g transform="translate(0,6)">
+    <g transform="matrix(0.866,-0.5,0.866,0.5,96,90)">
+      <rect width="120" height="120" rx="6" fill="#10172e"/>
+      <rect x="3" y="3" width="34" height="34" rx="5" fill="#f4f4f0"/><rect x="43" y="3" width="34" height="34" rx="5" fill="#fcbf49"/><rect x="83" y="3" width="34" height="34" rx="5" fill="#f4f4f0"/>
+      <rect x="3" y="43" width="34" height="34" rx="5" fill="#2a9d4f"/><rect x="43" y="43" width="34" height="34" rx="5" fill="#f4f4f0"/><rect x="83" y="43" width="34" height="34" rx="5" fill="#d62828"/>
+      <rect x="3" y="83" width="34" height="34" rx="5" fill="#fcbf49"/><rect x="43" y="83" width="34" height="34" rx="5" fill="#f4f4f0"/><rect x="83" y="83" width="34" height="34" rx="5" fill="#2f6df6"/>
+    </g>
+    <g transform="matrix(0.866,0.5,0,1,96,90)">
+      <rect width="120" height="120" rx="6" fill="#10172e"/>
+      <rect x="3" y="3" width="34" height="34" rx="5" fill="#d62828"/><rect x="43" y="3" width="34" height="34" rx="5" fill="#2f6df6"/><rect x="83" y="3" width="34" height="34" rx="5" fill="#d62828"/>
+      <rect x="3" y="43" width="34" height="34" rx="5" fill="#fcbf49"/><rect x="43" y="43" width="34" height="34" rx="5" fill="#d62828"/><rect x="83" y="43" width="34" height="34" rx="5" fill="#2a9d4f"/>
+      <rect x="3" y="83" width="34" height="34" rx="5" fill="#2f6df6"/><rect x="43" y="83" width="34" height="34" rx="5" fill="#fcbf49"/><rect x="83" y="83" width="34" height="34" rx="5" fill="#f77f00"/>
+      <circle cx="38" cy="42" r="15" fill="#fff"/><circle cx="82" cy="42" r="15" fill="#fff"/>
+      <circle cx="42" cy="46" r="7" fill="#10172e"/><circle cx="86" cy="46" r="7" fill="#10172e"/>
+      <circle cx="44" cy="43" r="2.4" fill="#fff"/><circle cx="88" cy="43" r="2.4" fill="#fff"/>
+      <path d="M44 84 Q60 98 78 84" fill="none" stroke="#10172e" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <g transform="matrix(0.866,-0.5,0,1,200,150)">
+      <rect width="120" height="120" rx="6" fill="#10172e"/>
+      <rect x="3" y="3" width="34" height="34" rx="5" fill="#2a9d4f"/><rect x="43" y="3" width="34" height="34" rx="5" fill="#f77f00"/><rect x="83" y="3" width="34" height="34" rx="5" fill="#f4f4f0"/>
+      <rect x="3" y="43" width="34" height="34" rx="5" fill="#2f6df6"/><rect x="43" y="43" width="34" height="34" rx="5" fill="#f77f00"/><rect x="83" y="43" width="34" height="34" rx="5" fill="#d62828"/>
+      <rect x="3" y="83" width="34" height="34" rx="5" fill="#f4f4f0"/><rect x="43" y="83" width="34" height="34" rx="5" fill="#2a9d4f"/><rect x="83" y="83" width="34" height="34" rx="5" fill="#f77f00"/>
+    </g>
+    <path d="M300 200 C335 190 345 160 332 138" fill="none" stroke="#f4f4f0" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="332" cy="134" r="11" fill="#f4f4f0"/>
+  </g>
+</svg>

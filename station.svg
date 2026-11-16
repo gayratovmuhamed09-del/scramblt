@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Ночная платформа, поезд уже ушёл">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a1024"/><stop offset="1" stop-color="#1b2a55"/></linearGradient>
+    <radialGradient id="lamp" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffd166" stop-opacity=".6"/><stop offset="1" stop-color="#ffd166" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="900" height="420" fill="url(#sky)"/>
+  <g fill="#fff" opacity=".8"><circle cx="80" cy="50" r="1.5"/><circle cx="210" cy="90" r="1.2"/><circle cx="360" cy="40" r="1.6"/><circle cx="520" cy="80" r="1.2"/><circle cx="700" cy="45" r="1.5"/><circle cx="820" cy="100" r="1.2"/></g>
+  <g fill="#0e1630"><rect x="0" y="190" width="120" height="120"/><rect x="130" y="150" width="90" height="160"/><rect x="620" y="170" width="110" height="140"/><rect x="750" y="200" width="150" height="110"/></g>
+  <g fill="#ffd166" opacity=".7"><rect x="20" y="210" width="10" height="12"/><rect x="50" y="240" width="10" height="12"/><rect x="150" y="175" width="10" height="12"/><rect x="180" y="215" width="10" height="12"/><rect x="650" y="195" width="10" height="12"/><rect x="780" y="225" width="10" height="12"/></g>
+  <rect y="310" width="900" height="110" fill="#111a38"/>
+  <rect y="310" width="900" height="10" fill="#f4c542"/>
+  <g stroke="#3a4670" stroke-width="5"><path d="M0 385 H900"/><path d="M0 405 H900"/></g>
+  <g stroke="#2a3558" stroke-width="3"><path d="M40 380v30M140 380v30M240 380v30M340 380v30M440 380v30M540 380v30M640 380v30M740 380v30M840 380v30"/></g>
+  <ellipse cx="640" cy="260" rx="130" ry="130" fill="url(#lamp)"/>
+  <path d="M640 330 V200" stroke="#2a3558" stroke-width="6"/><rect x="622" y="190" width="36" height="14" rx="6" fill="#ffd166"/>
+  <g transform="translate(250 130)"><rect width="150" height="56" rx="8" fill="#0a0f22" stroke="#3a4670" stroke-width="3"/>
+    <text x="75" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="#ff4d6d">00:47  ✕</text></g>
+  <path d="M325 186 V310" stroke="#2a3558" stroke-width="6"/>
+  <g transform="translate(470 252)" fill="#2f6df6"><rect width="70" height="58" rx="4"/><rect x="0" y="40" width="70" height="18" fill="#1d4ec4"/><rect x="8" y="-14" width="54" height="14" rx="3" fill="#1d4ec4"/></g>
+  <text x="505" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#cfe0ff">скамейка</text>
+</svg>

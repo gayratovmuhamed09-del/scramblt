@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 400" role="img" aria-label="Смартфон с яркой игрой">
+  <defs>
+    <linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#28d7ff"/><stop offset="1" stop-color="#7b4dff"/></linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#28d7ff" stop-opacity=".55"/><stop offset="1" stop-color="#28d7ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="120" cy="200" rx="118" ry="190" fill="url(#glow)"/>
+  <rect x="40" y="30" width="160" height="340" rx="28" fill="#0a0f22" stroke="#3a4670" stroke-width="3"/>
+  <rect x="50" y="48" width="140" height="304" rx="18" fill="url(#scr)"/>
+  <rect x="96" y="36" width="48" height="6" rx="3" fill="#3a4670"/>
+  <g>
+    <rect x="62" y="110" width="28" height="28" rx="8" fill="#ff4d6d"/><rect x="96" y="110" width="28" height="28" rx="8" fill="#ffd166"/><rect x="130" y="110" width="28" height="28" rx="8" fill="#06d6a0"/>
+    <rect x="62" y="144" width="28" height="28" rx="8" fill="#ffd166"/><rect x="96" y="144" width="28" height="28" rx="8" fill="#ff4d6d"/><rect x="130" y="144" width="28" height="28" rx="8" fill="#ffd166"/>
+    <rect x="62" y="178" width="28" height="28" rx="8" fill="#06d6a0"/><rect x="96" y="178" width="28" height="28" rx="8" fill="#ffd166"/><rect x="130" y="178" width="28" height="28" rx="8" fill="#ff4d6d"/>
+    <rect x="62" y="212" width="28" height="28" rx="8" fill="#ff4d6d"/><rect x="96" y="212" width="28" height="28" rx="8" fill="#06d6a0"/><rect x="130" y="212" width="28" height="28" rx="8" fill="#ffd166"/>
+  </g>
+  <text x="120" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="20" fill="#fff">LEVEL 99</text>
+  <rect x="68" y="272" width="104" height="30" rx="15" fill="#fff" opacity=".9"/>
+  <text x="120" y="293" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="14" fill="#5b3dd9">PLAY</text>
+</svg>
